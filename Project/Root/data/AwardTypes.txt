@@ -1,0 +1,29 @@
+[
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 1,
+    "Platinum": 1,
+    "Gold": 2,
+    "Silver": 3,
+    "Bronze": 4,
+    "Cause for Applause": 5
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 2,
+    "Platinum": 1,
+    "Gold": 2,
+    "Silver": 3,
+    "Bronze": 4,
+    "Cause for Applause": 5
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 3,
+    "Platinum": 1,
+    "Gold": 2,
+    "Silver": 3,
+    "Bronze": 4,
+    "Cause for Applause": 5
+  }
+]

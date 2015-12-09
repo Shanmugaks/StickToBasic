@@ -1,0 +1,242 @@
+[
+  {
+    "UserName": "Admin",
+    "password": "Password@123",
+    "PhotoURL": "DummyUserImage.jpg",
+    "Role": "Admin",
+    "EmployeeInfo": {
+      "ID": 111111,
+      "FirstName": "DummyFirstName",
+      "LastName": "DummyLastName",
+      "NT-Name": "DummyNT-name",
+      "Email": "DummyUser@emc.com",
+      "DesignationLevel": 0,
+      "Designation": "DummyDesignationLevel",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  },
+  {
+    "UserName": "Shanmuga",
+    "password": "Password@123",
+    "PhotoURL": "Shanmuga.jpg",
+    "Role": "Admin",
+    "EmployeeInfo": {
+      "ID": 144489,
+      "FirstName": "Shanmugasundaram",
+      "LastName": "DummyLastNameKS",
+      "NT-Name": "kss2",
+      "Email": "shanmugasundaram.ks@emc.com",
+      "DesignationLevel": 54,
+      "Designation": "Principal Software Engineer",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  },
+  {
+    "UserName": "Madhu",
+    "password": "Password@123",
+    "PhotoURL": "Madhu.jpg",
+    "Role": "Participant",
+    "EmployeeInfo": {
+      "ID": 155578,
+      "FirstName": "Madhu",
+      "LastName": "JN",
+      "NT-Name": "madhujn",
+      "Email": "madhu.jn@emc.com",
+      "DesignationLevel": 52,
+      "Designation": "Senior Software Engineer",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  },
+  {
+    "UserName": "Vikas",
+    "password": "Password@123",
+    "PhotoURL": "Vikas.jpg",
+    "Role": "Participant",
+    "EmployeeInfo": {
+      "ID": 9912,
+      "FirstName": "Vikas",
+      "LastName": "sharma",
+      "NT-Name": "sharma2",
+      "Email": "vikas.sharma@emc.com",
+      "DesignationLevel": 52,
+      "Designation": "Senior Software Engineer",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  },
+  {
+    "UserName": "Amrut",
+    "password": "Password@123",
+    "PhotoURL": "Amrut.jpg",
+    "Role": "Participant",
+    "EmployeeInfo": {
+      "ID": 144403,
+      "FirstName": "Amrut",
+      "LastName": "vuppulapalli",
+      "NT-Name": "amrutvup",
+      "Email": "amrut.vupul@emc.com",
+      "DesignationLevel": 52,
+      "Designation": "Senior Software Engineer",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  },
+  {
+    "UserName": "Samuel",
+    "password": "Password@123",
+    "PhotoURL": "Sam.jpg",
+    "Role": "Participant",
+    "EmployeeInfo": {
+      "ID": 155590,
+      "FirstName": "Samuel",
+      "LastName": "raj",
+      "NT-Name": "samr2",
+      "Email": "samuel.raj@emc.com",
+      "DesignationLevel": 51,
+      "Designation": "Software Engineer",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  },
+  {
+    "UserName": "Britto",
+    "password": "Password@123",
+    "PhotoURL": "Brit.jpg",
+    "Role": "Participant",
+    "EmployeeInfo": {
+      "ID": 166632,
+      "FirstName": "Britto",
+      "LastName": "manuel",
+      "NT-Name": "britm23",
+      "Email": "britto.manuel@emc.com",
+      "DesignationLevel": 51,
+      "Designation": "Software Engineer",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  },
+  {
+    "UserName": "Kapil",
+    "password": "Password@123",
+    "PhotoURL": "kapil.jpg",
+    "Role": "Participant",
+    "EmployeeInfo": {
+      "ID": 122134,
+      "FirstName": "Kapil",
+      "LastName": "tiwari",
+      "NT-Name": "tiwari123",
+      "Email": "kapil.tiwari@emc.com",
+      "DesignationLevel": 53,
+      "Designation": "Associate Principal Software Engineer",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  },
+  {
+    "UserName": "Andrew",
+    "password": "Password@123",
+    "PhotoURL": "Andrew.jpg",
+    "Role": "Participant",
+    "EmployeeInfo": {
+      "ID": 111154,
+      "FirstName": "Andrew",
+      "LastName": "Selvaraj",
+      "NT-Name": "selva2",
+      "Email": "andrew.selvaraj@emc.com",
+      "DesignationLevel": 53,
+      "Designation": "Associate Principal Software Engineer",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  },
+  {
+    "UserName": "Pradeep",
+    "password": "Password@123",
+    "PhotoURL": "pradeep.jpg",
+    "Role": "Participant",
+    "EmployeeInfo": {
+      "ID": 91234,
+      "FirstName": "Pradeep",
+      "LastName": "kumar",
+      "NT-Name": "pradeep12",
+      "Email": "pradeep.kumar@emc.com",
+      "DesignationLevel": 54,
+      "Designation": "Principal Software Engineer",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  },
+  {
+    "UserName": "Sushant",
+    "password": "Password@123",
+    "PhotoURL": "sushant.jpg",
+    "Role": "Participant",
+    "EmployeeInfo": {
+      "ID": 144678,
+      "FirstName": "Sushant",
+      "LastName": "kumar",
+      "NT-Name": "Sushant",
+      "Email": "sushant.kumar@emc.com",
+      "DesignationLevel": 55,
+      "Designation": "Consultant",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  },
+  {
+    "UserName": "Pardeep",
+    "password": "Password@123",
+    "PhotoURL": "pardeep.jpg",
+    "Role": "Participant",
+    "EmployeeInfo": {
+      "ID": 100012,
+      "FirstName": "Pardeep",
+      "LastName": "kumar",
+      "NT-Name": "Pardeep",
+      "Email": "pardeep.kumar@emc.com",
+      "DesignationLevel": 55,
+      "Designation": "Consultant",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  },
+  {
+    "UserName": "Pramod",
+    "password": "Password@123",
+    "PhotoURL": "pramod.jpg",
+    "Role": "Participant",
+    "EmployeeInfo": {
+      "ID": 121324,
+      "FirstName": "Pramod",
+      "LastName": "kumar",
+      "NT-Name": "pramod",
+      "Email": "pramod.kumar@emc.com",
+      "DesignationLevel": 56,
+      "Designation": "Senior Manager",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  },
+  {
+    "UserName": "Viswa",
+    "password": "Password@123",
+    "PhotoURL": "viswa.jpg",
+    "Role": "Participant",
+    "EmployeeInfo": {
+      "ID": 2356,
+      "FirstName": "Viswa",
+      "LastName": "durairaj",
+      "NT-Name": "viswa",
+      "Email": "viswa.durairaj@emc.com",
+      "DesignationLevel": 57,
+      "Designation": "Director",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  },
+  {
+    "UserName": "Mahesh",
+    "password": "Password@123",
+    "PhotoURL": "mahesh.jpg",
+    "Role": "Participant",
+    "EmployeeInfo": {
+      "ID": 56789,
+      "FirstName": "Mahesh",
+      "LastName": "nathan",
+      "NT-Name": "manheshna12",
+      "Email": "mahesh.nathan@emc.com",
+      "DesignationLevel": 56,
+      "Designation": "Senior Manager",
+	  "ProjectList":["MDMO","MyD"]
+    }
+  }
+]

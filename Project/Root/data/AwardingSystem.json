@@ -1,0 +1,683 @@
+[
+  {
+    "Name": "Q1-2015",
+    "StartDate": "ISO 01-01-2015",
+    "EndDate": "ISO 01-02-2015",
+    "MajorCategory": [
+      {
+        "Name": "Value Creation",
+        "Types": [
+          {
+            "Name": "Platinum",
+            "Count": 1
+          },
+          {
+            "Name": "Gold",
+            "Count": 2
+          },
+          {
+            "Name": "Silver",
+            "Count": 3
+          },
+          {
+            "Name": "Bronze",
+            "Count": 4
+          },
+          {
+            "Name": "Cause for Applause",
+            "Count": 10
+          }
+        ],
+        "ProcessSteps": [
+          {
+            "ID": 1,
+            "Name": "Nomination",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetDeginationLevel": [
+              0
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 2,
+            "Name": "Round-1",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              50,
+              51
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 3,
+            "Name": "Round-2",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              52,
+              53
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 4,
+            "Name": "Round-3",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              54,
+              55
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 5,
+            "Name": "Round-4",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              56,
+              57
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 6,
+            "Name": "Finalist",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              0
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 7,
+            "Name": "Winners",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              0
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          }
+        ],
+        "ParticipantsInfo": [
+          {
+            "DummyUser": {
+              "UploadedInfo": {
+                "DOC": [
+                  {
+                    "FileURL": "Dummy_Achievement.doc",
+                    "Size": 297,
+                    "FileUnit": "KB",
+                    "Desc": "my Dummy Achievement in detailed document"
+                  }
+                ],
+                "VIDEO": [
+                  {
+                    "FileURL": "Achievement.avi",
+                    "Size": 297,
+                    "FileUnit": "KB",
+                    "Desc": "my Dummy Achievement in my own video"
+                  }
+                ],
+                "URL": [
+                  {
+                    "URL": "www.DummyURLReference.com/ieeepaper/id=23",
+                    "Desc": "my Dummy URL reference link"
+                  }
+                ]
+              },
+              "GivenInfo": {
+                "1StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "2StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "3StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "4StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "5StarRating": [
+                  {
+                    "UserName": "DummyUser",
+                    "Remarks": "DummyRemarks"
+                  }
+                ],
+                "Recommendation": [
+                  {
+                    "UserName": "DummyUser",
+                    "Remarks": "DummyRecommendation"
+                  }
+                ]
+              },
+              "ReceivedInfo": {
+                "1StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "2StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "3StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "4StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "5StarRating": [
+                  {
+                    "UserName": "DummyUser",
+                    "Remarks": "DummyRemarks"
+                  }
+                ],
+                "Recommendation": [
+                  {
+                    "UserName": "DummyUser",
+                    "Remarks": "DummyRecommendation"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Customer Delight",
+        "Types": [
+          {
+            "Name": "Platinum",
+            "Count": 1
+          },
+          {
+            "Name": "Gold",
+            "Count": 2
+          },
+          {
+            "Name": "Silver",
+            "Count": 3
+          },
+          {
+            "Name": "Bronze",
+            "Count": 4
+          },
+          {
+            "Name": "Cause for Applause",
+            "Count": 10
+          }
+        ],
+        "ProcessSteps": [
+          {
+            "ID": 1,
+            "Name": "Nomination",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetDeginationLevel": [
+              0
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 2,
+            "Name": "Round-1",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              50,
+              51
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 3,
+            "Name": "Round-2",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              52,
+              53
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 4,
+            "Name": "Round-3",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              54,
+              55
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 5,
+            "Name": "Finalist",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              0
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 6,
+            "Name": "Winners",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              0
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          }
+        ],
+        "ParticipantsInfo": [
+          {
+            "DummyUser": {
+              "UploadedInfo": {
+                "DOC": [
+                  {
+                    "FileURL": "Dummy_Achievement.doc",
+                    "Size": 297,
+                    "FileUnit": "KB",
+                    "Desc": "my Dummy Achievement in detailed document"
+                  }
+                ],
+                "VIDEO": [
+                  {
+                    "FileURL": "Achievement.avi",
+                    "Size": 297,
+                    "FileUnit": "KB",
+                    "Desc": "my Dummy Achievement in my own video"
+                  }
+                ],
+                "URL": [
+                  {
+                    "URL": "www.DummyURLReference.com/ieeepaper/id=23",
+                    "Desc": "my Dummy URL reference link"
+                  }
+                ]
+              },
+              "GivenInfo": {
+                "1StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "2StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "3StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "4StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "5StarRating": [
+                  {
+                    "UserName": "DummyUser",
+                    "Remarks": "DummyRemarks"
+                  }
+                ],
+                "Recommendation": [
+                  {
+                    "UserName": "DummyUser",
+                    "Remarks": "DummyRecommendation"
+                  }
+                ]
+              },
+              "ReceivedInfo": {
+                "1StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "2StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "3StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "4StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "5StarRating": [
+                  {
+                    "UserName": "DummyUser",
+                    "Remarks": "DummyRemarks"
+                  }
+                ],
+                "Recommendation": [
+                  {
+                    "UserName": "DummyUser",
+                    "Remarks": "DummyRecommendation"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      {
+        "Name": "Innovation",
+        "Types": [
+          {
+            "Name": "Platinum",
+            "Count": 1
+          },
+          {
+            "Name": "Gold",
+            "Count": 2
+          },
+          {
+            "Name": "Silver",
+            "Count": 3
+          },
+          {
+            "Name": "Bronze",
+            "Count": 4
+          },
+          {
+            "Name": "Cause for Applause",
+            "Count": 10
+          }
+        ],
+        "ProcessSteps": [
+          {
+            "ID": 1,
+            "Name": "Nomination",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetDeginationLevel": [
+              0
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 2,
+            "Name": "Round-1",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              50,
+              51,
+              52
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 3,
+            "Name": "Round-2",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              53,
+              54,
+              55
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 4,
+            "Name": "Finalist",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              0
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          },
+          {
+            "ID": 5,
+            "Name": "Winners",
+            "Status": "Not started",
+            "StartDate": "01022015-10:00AM",
+            "EndDate": "10022015-11:55PM",
+            "OutputCount": "2000",
+            "TargetLevels": [
+              0
+            ],
+            "UsersList": [
+              {
+                "UserName": "DummyUser"
+              }
+            ]
+          }
+        ],
+        "ParticipantsInfo": [
+          {
+            "DummyUser": {
+              "UploadedInfo": {
+                "DOC": [
+                  {
+                    "FileURL": "Dummy_Achievement.doc",
+                    "Size": 297,
+                    "FileUnit": "KB",
+                    "Desc": "my Dummy Achievement in detailed document"
+                  }
+                ],
+                "VIDEO": [
+                  {
+                    "FileURL": "Achievement.avi",
+                    "Size": 297,
+                    "FileUnit": "KB",
+                    "Desc": "my Dummy Achievement in my own video"
+                  }
+                ],
+                "URL": [
+                  {
+                    "URL": "www.DummyURLReference.com/ieeepaper/id=23",
+                    "Desc": "my Dummy URL reference link"
+                  }
+                ]
+              },
+              "GivenInfo": {
+                "1StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "2StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "3StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "4StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "5StarRating": [
+                  {
+                    "UserName": "DummyUser",
+                    "Remarks": "DummyRemarks"
+                  }
+                ],
+                "Recommendation": [
+                  {
+                    "UserName": "DummyUser",
+                    "Remarks": "DummyRecommendation"
+                  }
+                ]
+              },
+              "ReceivedInfo": {
+                "1StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "2StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "3StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "4StarRating": [
+                  {
+                    "UserName": "DummyUser"
+                  }
+                ],
+                "5StarRating": [
+                  {
+                    "UserName": "DummyUser",
+                    "Remarks": "DummyRemarks"
+                  }
+                ],
+                "Recommendation": [
+                  {
+                    "UserName": "DummyUser",
+                    "Remarks": "DummyRecommendation"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

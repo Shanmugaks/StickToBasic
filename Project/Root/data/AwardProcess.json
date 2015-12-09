@@ -1,0 +1,197 @@
+[
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 1,
+    "Step-ID": 1,
+    "Name": "Nomination",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 2000,
+    "TargetDeginationLevel": [
+      0
+    ]
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 1,
+    "Step-ID": 2,
+    "Name": "Round-1",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 256,
+    "TargetDeginationLevel": [
+      0
+    ]
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 1,
+    "Step-ID": 3,
+    "Name": "Round-2",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 128,
+    "TargetDeginationLevel": [
+      0
+    ]
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 1,
+    "Step-ID": 4,
+    "Name": "Round-3",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 64,
+    "TargetDeginationLevel": [
+      0
+    ]
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 1,
+    "Step-ID": 5,
+    "Name": "Finalist",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 32,
+    "TargetDeginationLevel": [
+      0
+    ]
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 1,
+    "Step-ID": 6,
+    "Name": "Winners",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 16,
+    "TargetDeginationLevel": [
+      0
+    ]
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 2,
+    "Step-ID": 1,
+    "Name": "Nomination",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 192,
+    "TargetDeginationLevel": [
+      0
+    ]
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 2,
+    "Step-ID": 2,
+    "Name": "Round-1",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 96,
+    "TargetDeginationLevel": [
+      0
+    ]
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 2,
+    "Step-ID": 3,
+    "Name": "Round-2",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 48,
+    "TargetDeginationLevel": [
+      0
+    ]
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 2,
+    "Step-ID": 4,
+    "Name": "Round-3",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 24,
+    "TargetDeginationLevel": [
+      0
+    ]
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 2,
+    "Step-ID": 5,
+    "Name": "Winners",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 12,
+    "TargetDeginationLevel": [
+      0
+    ]
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 3,
+    "Step-ID": 1,
+    "Name": "Nomination",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 64,
+    "TargetDeginationLevel": [
+      0
+    ]
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 3,
+    "Step-ID": 2,
+    "Name": "Round-1",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 32,
+    "TargetDeginationLevel": [
+      0
+    ]
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 3,
+    "Step-ID": 3,
+    "Name": "Finalist",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 16,
+    "TargetDeginationLevel": [
+      0
+    ]
+  },
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 3,
+    "Step-ID": 4,
+    "Name": "Winners",
+    "Status": "Not started",
+    "StartDate": "01022015-10:00AM",
+    "EndDate": "10022015-11:55PM",
+    "OutputCount": 8,
+    "TargetDeginationLevel": [
+      0
+    ]
+  }
+]

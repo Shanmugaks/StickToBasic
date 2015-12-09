@@ -1,0 +1,10 @@
+[
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 1,
+    "UserName": "Shanmuga",
+    "ReadDoc": [{"UserName": "DummyUser1"}],
+    "SeenVideo": [{"UserName": "DummyUser2"}],
+    "ClickedURL": [{"UserName": "DummyUser3"}]	
+  }
+]

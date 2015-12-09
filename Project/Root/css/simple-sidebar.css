@@ -1,0 +1,529 @@
+.FontIcons-Default
+{
+color:RGB(20,145,211);
+font-size:17px;
+}
+
+.FontIcons-Medium
+{
+color:RGB(20,145,211);
+font-size:x-large;
+}
+
+.ProcesspanelToggler
+{
+background:rgb(7,53,78);
+display:block;
+margin:0;
+padding-left:0;
+padding-bottom:20px;
+color:#fff;
+outline:none;
+width: 25px;
+height:25px;
+border-radius:25px;
+}
+.ProcesspanelToggler:hover
+{
+color:#000;
+}
+.ProcesspanelToggler:focus
+{
+outline:none;
+}
+
+
+*
+{
+ font-family: 'trebuchet MS', 'lucida sans';
+ }
+
+a:focus
+{
+outline: none;
+}
+#wrapper {
+    padding-left: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#wrapper.toggled {
+    padding-left: 250px;
+}
+
+#sidebar-wrapper {
+    z-index: 1000;
+    position: fixed;
+    left: 250px;
+    width: 0;
+    height: 100%;
+    margin-left: -250px;
+    overflow-y: auto;
+    background: rgb(7,53,78);
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+    width: 250px;
+}
+
+#page-content-wrapper {
+    width: 100%;
+    padding: 15px;
+}
+
+#wrapper.toggled #page-content-wrapper {
+    position: absolute;
+    margin-right: -250px;
+}
+
+/* Sidebar Styles */
+
+@media(min-width:768px) {
+    #wrapper {
+        padding-left: 250px;
+    }
+
+    #wrapper.toggled {
+        padding-left: 0;
+    }
+
+    #sidebar-wrapper {
+        width: 250px;
+    }
+
+    #wrapper.toggled	 #sidebar-wrapper {
+        width: 0;
+		margin:0;
+		border:0;
+    }
+
+    #page-content-wrapper {
+        padding: 20px;
+    }
+
+    #wrapper.toggled #page-content-wrapper {
+        position: relative;
+        margin-right: 0;
+    }
+}
+
+ /* show the move cursor as the user moves the mouse over the panel header.*/
+    #draggablePanelList .panel-heading {
+        cursor: move;
+    }
+	
+	.navbar-default {
+	background-color: #1491d3;
+	border-color: #616161;
+}
+.navbar-default .navbar-brand {
+	color: #ffffff;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+	color: #ffffff;
+}
+.navbar-default .navbar-text {
+	color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	color: #ffffff;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: #ffffff;
+	background-color: #616161;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+	color: #ffffff;
+	background-color: #616161;
+}
+.navbar-default .navbar-toggle {
+	border-color: #616161;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background-color: #616161;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #ffffff;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+	border-color: #ffffff;
+}
+.navbar-default .navbar-link {
+	color: #ffffff;
+}
+.navbar-default .navbar-link:hover {
+	color: #ffffff;
+}
+
+@media (max-width: 767px) {
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+		color: #ffffff;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+		color: #ffffff;
+		background-color: RGB(200,200,200);
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+		color: #ffffff;
+		background-color: #616161;
+	}
+}
+	/*
+	.navbar-default {
+	background-color: #86348f;
+	border-color: #888888;
+}
+.navbar-default .navbar-brand {
+	color: #ffffff;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+	color: #ffffff;
+}
+.navbar-default .navbar-text {
+	color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	color: #ffffff;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: #ffffff;
+	background-color: #888888;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+	color: #ffffff;
+	background-color: #888888;
+}
+.navbar-default .navbar-toggle {
+	border-color: #888888;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+	background-color: #888888;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #ffffff;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+	border-color: #ffffff;
+}
+.navbar-default .navbar-link {
+	color: #ffffff;
+}
+.navbar-default .navbar-link:hover {
+	color: #ffffff;
+}
+
+@media (max-width: 767px) {
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+		color: #ffffff;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+		color: #ffffff;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+		color: #ffffff;
+		background-color: #888888;
+	}
+}
+*/
+
+/*
+
+ol.circles-list {
+    list-style-type: none;
+    list-style-type: decimal !ie; //IE 7- hack
+     
+    margin: 0;
+    margin-left: 4em;
+    padding: 0;
+     
+    counter-reset: li-counter;
+}
+ol.circles-list > li{
+    position: relative;
+    margin-bottom: 20px;
+    padding-left: 0.5em;
+    min-height: 3em;
+}
+ol.circles-list > li:before {
+    position: absolute;
+    top: 0;
+    left: -1.33em;
+    width: 1.2em;
+    height: 1.2em;
+     
+    font-size: 2.5em;
+    line-height: 1.2;
+    text-align: center;
+    color: #f5f5f5;
+ 
+    border: 3px solid #c5c5c5;
+    border-radius: 50%;
+    background-color: #464646;
+    content: counter(li-counter);
+    counter-increment: li-counter;
+	}
+	*/
+
+.VLine
+{
+    content:"";
+    position: absolute;
+    z-index: -1;
+    top: 7em;
+    bottom: 5em;
+    left: 2.5em;
+    border-left: 2px dotted #aaa; 
+	color:#fff;
+} 
+
+	ol {
+    counter-reset: li; /* Initiate a counter */
+    list-style: none; /* Remove default numbering */
+    *list-style: decimal; /* Keep using default numbering for IE6/7 */
+    font: 13px 'trebuchet MS', 'lucida sans';
+    padding: 0;
+   // margin-bottom: 10em;
+    text-shadow: 0 1px 0 rgba(97,97,97,.5);
+}
+
+ol ol {
+    margin: 0 0 0 2em; /* Add some left margin for inner lists */
+}
+	
+/*
+.rectangle-list a:hover{
+    background:RGB(97,97,97);// #eee;
+}  
+*/ 
+
+.rectangle-list a:before{
+    content: counter(li);
+    counter-increment: li;
+    position: absolute; 
+    left: -2.5em;
+    top: 50%;
+    margin-top: -1em;
+    background:RGB(20,145,211);// #fa8072;	/* BOX color */
+    height: 2em;
+    width: 2em;
+    line-height: 2em;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.rectangle-list a:after{
+    position: absolute; 
+    content: '';
+    border: .5em solid transparent;
+    left: -1em;
+    top: 50%;
+    margin-top: -.5em;
+    transition: all .3s ease-out;               
+}
+
+.rectangle-list a:hover:after{
+    left: -.5em;
+    border-left-color:#fff; // RGB(97,97,97); // #fa8072;       	      /* Pointer color */
+}
+
+
+.rounded-list a{
+    position: relative;
+    display: block;
+    /*padding: .4em .4em .4em 2em;*/
+    /**padding: .4em;*/
+    margin: .5em 0;
+    //background: #87ceeb;
+    color: #444;
+    text-decoration: none;
+    border-radius: .5em;
+    transition: all .3s ease-out;   
+}
+
+.rounded-list a:hover{
+    background: #eee;
+}
+
+.rounded-list a:hover:before{
+    transform: rotate(360deg);  
+}
+
+.rounded-list a:before{
+    content: counter(li);
+    counter-increment: li;
+    position: absolute; 
+    left: -1.3em;
+    top: 50%;
+    margin-top: -1.3em;
+    background: RGB(20,145,211);
+    height: 3em;
+    width: 3em;
+    line-height: 3em;
+    border: .3em solid #fff;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 3em;
+    transition: all .3s ease-out;
+}
+.rectangle-list a{
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em .8em;
+    *padding: .4em;
+    margin: .5em 0 .5em 2.5em;
+    //background: #ddd; /* text bk */
+    color: #fff;
+    text-decoration: none;
+    transition: all .3s ease-out;   
+}
+
+.circle-list li{
+    padding: 2.5em;
+    border-bottom: 1px dashed #ccc;
+}
+
+.circle-list h2{
+    position: relative;
+    margin: 0;
+}
+
+.circle-list p{
+    margin: 0;
+}
+
+.circle-list h2:before{
+    content: counter(li);
+    counter-increment: li;
+    position: absolute;    
+    z-index: -1;
+    left: -1.3em;
+    top: -.8em;
+    background: #f5f5f5;
+    height: 1.5em;
+    width: 1.5em;
+    border: .1em solid rgba(0,0,0,.05);
+    text-align: center;
+    font: italic bold 1em/1.5em Georgia, Serif;
+    color: #ccc;
+    border-radius: 1.5em;
+    transition: all .2s ease-out;    
+}
+
+.circle-list li:hover h2:before{
+    background-color: #ffd797;
+    border-color: rgba(0,0,0,.08);
+    border-width: .2em;
+    color: #444;
+    transform: scale(1.5);
+}
+.RankingTable {
+	margin:0px;padding:0px;
+	width:100%;
+	box-shadow: 10px 10px 5px #888888;
+	border:1px solid #ffffff;
+	
+	-moz-border-radius-bottomleft:0px;
+	-webkit-border-bottom-left-radius:0px;
+	border-bottom-left-radius:0px;
+	
+	-moz-border-radius-bottomright:0px;
+	-webkit-border-bottom-right-radius:0px;
+	border-bottom-right-radius:0px;
+	
+	-moz-border-radius-topright:0px;
+	-webkit-border-top-right-radius:0px;
+	border-top-right-radius:0px;
+	
+	-moz-border-radius-topleft:0px;
+	-webkit-border-top-left-radius:0px;
+	border-top-left-radius:0px;
+}.RankingTable table{
+    border-collapse: collapse;
+        border-spacing: 0;
+	width:100%;
+	height:100%;
+	margin:0px;padding:0px;
+}.RankingTable tr:last-child td:last-child {
+	-moz-border-radius-bottomright:0px;
+	-webkit-border-bottom-right-radius:0px;
+	border-bottom-right-radius:0px;
+}
+.RankingTable table tr:first-child td:first-child {
+	-moz-border-radius-topleft:0px;
+	-webkit-border-top-left-radius:0px;
+	border-top-left-radius:0px;
+}
+.RankingTable table tr:first-child td:last-child {
+	-moz-border-radius-topright:0px;
+	-webkit-border-top-right-radius:0px;
+	border-top-right-radius:0px;
+}.RankingTable tr:last-child td:first-child{
+	-moz-border-radius-bottomleft:0px;
+	-webkit-border-bottom-left-radius:0px;
+	border-bottom-left-radius:0px;
+}.RankingTable tr:hover td{
+	
+}
+.RankingTable tr:nth-child(odd){ background-color:#d4d8db; }
+.RankingTable tr:nth-child(even)    { background-color:#ffffff; }.RankingTable td{
+	vertical-align:middle;
+	
+	
+	border:1px solid #ffffff;
+	border-width:0px 1px 1px 0px;
+	text-align:left;
+	padding:3px;
+	font-size:12px;
+	font-family:Helvetica;
+	font-weight:normal;
+	color:#000000;
+}.RankingTable tr:last-child td{
+	border-width:0px 1px 0px 0px;
+}.RankingTable tr td:last-child{
+	border-width:0px 0px 1px 0px;
+}.RankingTable tr:last-child td:last-child{
+	border-width:0px 0px 0px 0px;
+}
+.RankingTable tr:first-child td{
+		background:-o-linear-gradient(bottom, #81868c 5%, #81868c 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #81868c), color-stop(1, #81868c) );
+	background:-moz-linear-gradient( center top, #81868c 5%, #81868c 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#81868c", endColorstr="#81868c");	background: -o-linear-gradient(top,#81868c,81868c);
+
+	background-color:#81868c;
+	border:0px solid #ffffff;
+	text-align:center;
+	border-width:0px 0px 1px 1px;
+	font-size:13px;
+	font-family:Helvetica;
+	font-weight:bold;
+	color:#ffffff;
+}
+.RankingTable tr:first-child:hover td{
+	background:-o-linear-gradient(bottom, #81868c 5%, #81868c 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #81868c), color-stop(1, #81868c) );
+	background:-moz-linear-gradient( center top, #81868c 5%, #81868c 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#81868c", endColorstr="#81868c");	background: -o-linear-gradient(top,#81868c,81868c);
+
+	background-color:#81868c;
+}
+.RankingTable tr:first-child td:first-child{
+	border-width:0px 0px 1px 0px;
+}
+.RankingTable tr:first-child td:last-child{
+	border-width:0px 0px 1px 1px;
+}

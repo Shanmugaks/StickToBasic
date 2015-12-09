@@ -1,0 +1,23 @@
+[
+  {
+	 "Awardsys-ID":1,
+    "Name": "Q1-2015",
+    "StartDate": "ISO 01-01-2015",
+    "EndDate": "ISO 01-02-2015",
+    "MajorCategory": 
+    [
+      {
+		 "Cat-ID":1,
+        "Name": "Value Creation"
+      },
+      {
+		"Cat-ID":2,
+        "Name": "Customer Delight"
+      },
+      {
+	  "Cat-ID":3,
+        "Name": "Innovation"
+      }
+    ]
+  }
+]

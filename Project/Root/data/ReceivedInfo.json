@@ -1,0 +1,13 @@
+[
+  {
+    "Awardsys-ID": 1,
+    "Cat-ID": 1,
+    "UserName": "Shanmuga",
+    "1-star": [{"UserName": "DummyUser1"}],
+    "2-star": [{"UserName": "DummyUser2"}],
+	"3-star": [{"UserName": "DummyUser3"}],
+	"4-star": [{"UserName": "DummyUser4"}],
+	"5-star": [{"UserName": "DummyUser5"},{"Remarks": "Simply Superb"}],
+	"Recommendation":[{"UserName": "DummyUser"},{"Remarks": "Simply Superb"}]
+  }
+]
